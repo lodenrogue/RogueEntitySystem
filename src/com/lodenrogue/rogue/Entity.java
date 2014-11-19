@@ -66,7 +66,7 @@ public interface Entity {
 	 * 
 	 * @param postion Vector2 object representing the position.
 	 */
-	public void setPosition(Vector2 postion);
+	public void setPosition(Vector2 position);
 
 	/**
 	 * Get the position of this entity.
